@@ -18,17 +18,19 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Lingnan University
+    url: https://www.ln.edu.hk/socsp/people/postgraduate-students/tobias-kamelski/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Digital and Cultural Sociology
+  - Computational Methods
+  - Images as Data
+  - Impression Management and Self-Presentation
+  - Subjectification and Disciplinary Power
 
 # Education to show in About widget
 education:
