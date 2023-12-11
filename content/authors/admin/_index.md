@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Sociology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -35,15 +35,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Master of Arts in Socio-cultural Studies
+      institution: European University Viadrina
+      year: 2021
+    - course: Bachelor of Arts in Gender and Diversity
+      institution: Rhine-Waal University of Applied Sciences
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -119,5 +116,11 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD Candidate in Sociology at Lingnan University in Hong Kong, specializing in the dynamic fields of Digital and Cultural Sociology. My research delves into the intricacies of subjectification and the maintenance of latent and embodied power structures in society. I am particularly fascinated by how individuals engage with and potentially modify the common-sense construction of reality, thereby influencing the social order, through their everyday practices in digital environments.
+
+My methodological approach is predominantly qualitative, yet I emphasize a problem and question-oriented methodology, embracing mixed-methods approaches. This strategy stems from my interest in digital artefacts and mediated behavior, where I aim to bridge the interpretative capacities of the human mind with the analytical prowess of machines.
+
+My academic journey has taken me across diverse cultural and educational landscapes, from Germany to South Korea, and now to Hong Kong. These experiences have enriched my perspective and approach to my field of study, allowing me to view digital and cultural sociology through a unique, multicultural lens.
+
+I am keenly interested in exploring the intersection between digital and cultural sociology, with a particular focus on how it intersects with gender and media studies, as well as linguistics. I welcome collaboration with peers and scholars who share a passion for these areas. If you are interested in collaborative endeavors that push the boundaries of our understanding in these fields, please feel free to reach out to me.
 {style="text-align: justify;"}
