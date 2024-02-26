@@ -2,11 +2,12 @@
 title: "An example preprint / working paper"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Francisco Olivos
+date: "2024-02-14T00:00:00Z"
+doi: "https://doi.org/10.31219/osf.io/8frst"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,13 +15,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Preprint"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: This paper introduces the useof AI-replicasas an alternative to traditional anonymization methodsin image-based qualitative research.It emphasizes the ethical and practical dilemmas posed by current anonymization methods, such as distortion or loss of emotional and contextual information in images,andproposes the use of AI-replicas to preserve the integrity and authenticity of visual data while ensuring participant anonymity.The paper outlines the  technological  foundations  of  generative artificial  intelligence(AI)andthe  practical  application  of  Stable Diffusion to generate AI-replicas for anonymization and fictionalization purposes.Furthermore, it discusses the potential  biases present  ingenerativeAIto  suggestways  to  mitigate  these biases through  careful  prompt engineering and participatory approaches. The introducedapproach aims to enhance ethical  practices in visual research by providing a method that ensuresparticipant anonymity without compromising the data's qualitative richness and interpretative validity.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
