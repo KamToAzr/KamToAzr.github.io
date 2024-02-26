@@ -21,7 +21,7 @@ publication_short: ""
 abstract: This paper introduces the useof AI-replicasas an alternative to traditional anonymization methodsin image-based qualitative research.It emphasizes the ethical and practical dilemmas posed by current anonymization methods, such as distortion or loss of emotional and contextual information in images,andproposes the use of AI-replicas to preserve the integrity and authenticity of visual data while ensuring participant anonymity.The paper outlines the  technological  foundations  of  generative artificial  intelligence(AI)andthe  practical  application  of  Stable Diffusion to generate AI-replicas for anonymization and fictionalization purposes.Furthermore, it discusses the potential  biases present  ingenerativeAIto  suggestways  to  mitigate  these biases through  careful  prompt engineering and participatory approaches. The introducedapproach aims to enhance ethical  practices in visual research by providing a method that ensuresparticipant anonymity without compromising the data's qualitative richness and interpretative validity.
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper introduces the useof AI-replicasas an alternative to traditional anonymization methodsin image-based qualitative research.It emphasizes the ethical and practical dilemmas posed by current anonymization methods, such as distortion or loss of emotional and contextual information in images,andproposes the use of AI-replicas to preserve the integrity and authenticity of visual data while ensuring participant anonymity.The paper outlines the  technological  foundations  of  generative artificial  intelligence(AI)andthe  practical  application  of  Stable Diffusion to generate AI-replicas for anonymization and fictionalization purposes.Furthermore, it discusses the potential  biases present  ingenerativeAIto  suggestways  to  mitigate  these biases through  careful  prompt engineering and participatory approaches. The introducedapproach aims to enhance ethical  practices in visual research by providing a method that ensuresparticipant anonymity without compromising the data's qualitative richness and interpretative validity.
 
 tags:
 - Source Themes
@@ -55,8 +55,3 @@ projects:
 slides: example
 ---
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
