@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: Title
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Tobias Kamelski
 
 # Full name (for SEO)
 first_name: Tobias
