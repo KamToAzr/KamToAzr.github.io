@@ -1,5 +1,5 @@
-.hero {
-    background-image: none !important;
-    background-color: #ffffff !important; /* or your preferred color */
-  }
-  
+.hero,
+.hero::before {
+  background: none !important;
+  background-color: #ffffff !important; /* Or your preferred background color */
+}
