@@ -42,7 +42,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: /uploads/Kamelski, Olivos - 2025 - AI-replicas as ethical practice introducing an alternative to traditional anonymisation techniques in image-ba.pdf
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
