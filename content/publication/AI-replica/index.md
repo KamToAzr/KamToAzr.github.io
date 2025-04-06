@@ -18,7 +18,7 @@ publishDate: "2025-01-02T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Qualitative Research
+publication: "Qualitative Research"
 publication_short: ""
 
 abstract: This article introduces the use of AI-replicas as an alternative to traditional anonymisation methods in image-based qualitative research. It emphasises the ethical and practical dilemmas posed by current anon- ymisationmethods, such as distortion or loss ofemotional and contextual information in images, and pro- poses the use of AI-replicas to preserve the integrity and authenticity of visual data while ensuring participant anonymity.The articleoutlines the technological foundations ofgenerative artificial intelligence (AI) and the practical application ofStable Diffusion to generate AI-replicas for anonymisation and fiction- alisation purposes. Furthermore, it discusses the potential biases present in generative AI to suggest ways to mitigate thesebiases through careful promptengineering and participatoryapproaches.The introduced approach aims to enhance ethical practices in visual research by providing a method that ensures partici- pant anonymity without compromising the data’s qualitative richness and interpretative validity.
