@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Title
+title: Tobias Kamelski
 
 # Name pronunciation (optional)
-name_pronunciation: Tobias Kamelski
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Tobias
@@ -20,69 +20,63 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: ROLE TEST
+role: Research PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Lingnan University - Department of Sociology & Social Policy
+    url: https://www.ln.edu.hk/socsp/people/postgraduate-students/tobias-kamelski
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'tobiaskamelski@ln.hk'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/KamToAzr
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://hk.linkedin.com/in/tobias-kamelski
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=dthzbLkAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4537-5709
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+- Cultural sociology and practice theory  
+- Mediated self-presentation  
+- Comparative cultural analysis  
+- Ethical methodologies in digital research  
+- Visual data analysis  
+- Integration of qualitative and computational methods  
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: PhD in Sociology
+    institution: Lingnan University
+    #date_start: 2016-01-01
+    #date_end: 2025-08-31
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: M.A. in Socio-cultural Studies
+    institution: European University Viadrina
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: B.A. in Gender and Diversity
+    institution: Rhine-Waal University of Applied Sciences
+    # date_start: 2016-01-01
+    # date_end: 2020-12-31
+    # summary: |
+    #   GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
