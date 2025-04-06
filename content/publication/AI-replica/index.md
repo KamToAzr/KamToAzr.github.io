@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "AI-replicas as ethical practice: introducing an alternative to traditional anonymisation techniques in image-based research"
 authors:
 - admin
 - Francisco Olivos
@@ -10,7 +10,7 @@ date: "2025-01-02T00:00:00Z"
 doi: "10.1177/146879412413087"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: date: "2025-01-02T00:00:00Z"
+publishDate: "2025-01-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
