@@ -177,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tobias Kamelski is a PhD candidate in Sociology and Social Policy at Lingnan University, Hong Kong. His research focuses on mediated self-presentation on digital platforms. In his current project, he analyzes online dating profiles across 13 countries to examine how cultural contexts shape visual self-presentation.
