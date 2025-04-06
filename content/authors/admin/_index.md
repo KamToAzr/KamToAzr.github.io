@@ -46,7 +46,7 @@ interests:
 - Cultural sociology and practice theory  
 - Mediated self-presentation  
 - Comparative cultural analysis  
-- Ethical methodologies in digital research  
+- Research ethics in digital research  
 - Visual data analysis  
 - Integration of qualitative and computational methods  
 
