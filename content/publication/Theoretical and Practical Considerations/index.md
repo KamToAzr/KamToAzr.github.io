@@ -1,17 +1,16 @@
 ---
-title: "AI-replicas as ethical practice: introducing an alternative to traditional anonymisation techniques in image-based research"
+title: "Theoretical and Practical Considerations Concerning the Use of Larger Qualitative Samples for the Documentary Interpretation of Pictures: Computer-Assisted Image Assessment and the Iconic Operationalization of Tinder Profiles"
 authors:
 - admin
-- Francisco Olivos
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025-01-02T00:00:00Z"
-doi: "10.1177/14687941241308705"
+date: "2022-01-01T00:00:00Z"
+doi: "10.21241/ssoar.85958"
 
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-02T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,30 +18,25 @@ publishDate: "2025-01-02T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Qualitative Research"
+publication: "Jahrbuch Dokumentarische Methode"
 publication_short: ""
 
-abstract: This article introduces the use of AI-replicas as an alternative to traditional anonymisation methods in image-based qualitative research. It emphasises the ethical and practical dilemmas posed by current anon- ymisationmethods, such as distortion or loss ofemotional and contextual information in images, and pro- poses the use of AI-replicas to preserve the integrity and authenticity of visual data while ensuring participant anonymity.The articleoutlines the technological foundations ofgenerative artificial intelligence (AI) and the practical application ofStable Diffusion to generate AI-replicas for anonymisation and fiction- alisation purposes. Furthermore, it discusses the potential biases present in generative AI to suggest ways to mitigate thesebiases through careful promptengineering and participatoryapproaches.The introduced approach aims to enhance ethical practices in visual research by providing a method that ensures partici- pant anonymity without compromising the data’s qualitative richness and interpretative validity.
+abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- image anonymisation
-- generative AI
-- stable diffusion
-- research methodology
-- qualitative research
-- visual research
-- ethics
-- privacy
+- self-presentation
+- computational methods
+- research methods
 
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://osf.io/preprints/osf/8frst_v1'
+url_pdf: 'https://www.ssoar.info/ssoar/bitstream/handle/document/85958/ssoar-2022-kamelski-Theoretical_and_Practical_Considerations_Concerning.pdf?sequence=1&isAllowed=y&lnkname=ssoar-2022-kamelski-Theoretical_and_Practical_Considerations_Concerning.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''

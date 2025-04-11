@@ -1,17 +1,16 @@
 ---
-title: "AI-replicas as ethical practice: introducing an alternative to traditional anonymisation techniques in image-based research"
+title: "Generative Artificial Intelligence and Digital Ageism: Exploring the Construction of Age and Aging by Image-Generating AI"
 authors:
 - admin
-- Francisco Olivos
+- Denise Klinge
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025-01-02T00:00:00Z"
-doi: "10.1177/14687941241308705"
-
+date: "2024-12-25T00:00:00Z"
+doi: "10.31219/osf.io/p3sdj"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-01-02T00:00:00Z"
+publishDate: "2024-12-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,30 +18,27 @@ publishDate: "2025-01-02T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Qualitative Research"
+publication: "Medien & Altern [Media & Aging]"
 publication_short: ""
 
-abstract: This article introduces the use of AI-replicas as an alternative to traditional anonymisation methods in image-based qualitative research. It emphasises the ethical and practical dilemmas posed by current anon- ymisationmethods, such as distortion or loss ofemotional and contextual information in images, and pro- poses the use of AI-replicas to preserve the integrity and authenticity of visual data while ensuring participant anonymity.The articleoutlines the technological foundations ofgenerative artificial intelligence (AI) and the practical application ofStable Diffusion to generate AI-replicas for anonymisation and fiction- alisation purposes. Furthermore, it discusses the potential biases present in generative AI to suggest ways to mitigate thesebiases through careful promptengineering and participatoryapproaches.The introduced approach aims to enhance ethical practices in visual research by providing a method that ensures partici- pant anonymity without compromising the data’s qualitative richness and interpretative validity.
+abstract: Since 2022, the increased attention to and public accessibility of generative artificial intelligence (GenAI) has become essential for knowledge acquisition on digital platforms. GenAI for image generation is trained on large datasets but remains socially situated in the biases of its creators as well as the inherent limitations and biases of the training data used. Existing research has pointed out that AI models display gender and racial biases. However, the visual construction of age through GenAI models remains unexplored. This paper conducts a documentary image interpretation of 200 images of aged individuals to analyze the visual construction of age across different AI models. The results show different constructions of age between the models DALL·E and Stable Diffusion, ranging from an uncanny idealism to the fragility of age.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- image anonymisation
-- generative AI
-- stable diffusion
-- research methodology
-- qualitative research
-- visual research
-- ethics
-- privacy
+- ageism
+- artificial intelligence
+- documentary method
+- social biases
+- social construction of age
 
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://osf.io/preprints/osf/8frst_v1'
+url_pdf: 'https://osf.io/p3sdj_v1/download/'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
