@@ -54,18 +54,18 @@ sections:
   #     view: article-grid
   #     columns: 2
 
-  - block: markdown
-    id: theoretical-project
-    content:
-      title: Theoretical Project
-      text: |-
-        My overarching research project investigates digital subjectivation and the emergence of platform subjectivities. I approach self-presentation in digital environments not through a structural or centralized notion of the self, but as practices embedded in fields and mediated by digital affordances. This perspective acknowledges that one organism may sustain multiple, even conflicting selves, while also foregrounding how subject positions take shape as cultural forms. In this sense, I treat self and subject as complementary concepts, differentiated by conceptual zoom: the self as manifested through situated practices, and the subject as the broader cultural formation that these practices reproduce or contest.
-
-        Digital environments are understood as semi-structured fields. Platform design, affordances, and constraints shape what forms of subjectivation are possible, yet these remain embedded in wider power/knowledge systems. Some platforms (e.g., Tinder, LinkedIn) are closely aligned with established social fields, while others (e.g., VRChat, Second Life) allow more open-ended negotiations of subject positions. Importantly, platforms do not function as autonomous universes; rather, they act as nodes in wider digital ecologies where established societal values intersect with novel or experimental forms of subjectivity.
-
-        Within each platform, heterogeneous subject forms coexist, and these can be reconstructed into typologies that show how mediated practices validate, reconfigure, or destabilize existing cultural orders. On a comparative level, my project traces how these subjectivities travel and mutate across different digital spaces, revealing both the persistence of broader cultural norms and the possibility of alternative articulations. My aim is to develop a sociology of digital subjectivation that explains how mediated practices simultaneously reproduce cultural formations and open spaces for the negotiation of new or contested modes of being.
-    design:
-        columns: "1"
+#  - block: markdown
+#    id: theoretical-project
+#    content:
+#      title: Theoretical Project
+#      text: |-
+#        My overarching research project investigates digital subjectivation and the emergence of platform subjectivities. I approach self-presentation in digital environments not through a structural or centralized notion of the self, but as practices embedded in fields and mediated by digital affordances. This perspective acknowledges that one organism may sustain multiple, even conflicting selves, while also foregrounding how subject positions take shape as cultural forms. In this sense, I treat self and subject as complementary concepts, differentiated by conceptual zoom: the self as manifested through situated practices, and the subject as the broader cultural formation that these practices reproduce or contest.
+#
+#        Digital environments are understood as semi-structured fields. Platform design, affordances, and constraints shape what forms of subjectivation are possible, yet these remain embedded in wider power/knowledge systems. Some platforms (e.g., Tinder, LinkedIn) are closely aligned with established social fields, while others (e.g., VRChat, Second Life) allow more open-ended negotiations of subject positions. Importantly, platforms do not function as autonomous universes; rather, they act as nodes in wider digital ecologies where established societal values intersect with novel or experimental forms of subjectivity.
+#
+#        Within each platform, heterogeneous subject forms coexist, and these can be reconstructed into typologies that show how mediated practices validate, reconfigure, or destabilize existing cultural orders. On a comparative level, my project traces how these subjectivities travel and mutate across different digital spaces, revealing both the persistence of broader cultural norms and the possibility of alternative articulations. My aim is to develop a sociology of digital subjectivation that explains how mediated practices simultaneously reproduce cultural formations and open spaces for the negotiation of new or contested modes of being.
+#    design:
+#        columns: "1"
 
 
   - block: collection
