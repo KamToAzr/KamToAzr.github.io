@@ -51,7 +51,7 @@ interests:
 - Integration of qualitative and computational methods  
 
 education:
-  - area: PhD in Sociology
+  - area: PhD in Sociology, to be conferred November 2025 
     institution: Lingnan University
     #date_start: 2016-01-01
     #date_end: 2025-08-31
@@ -177,4 +177,11 @@ awards:
 
 ## About Me
 
-Tobias Kamelski is a PhD candidate in Sociology and Social Policy at Lingnan University, Hong Kong. His research focuses on mediated self-presentation on digital platforms. In his current project, he analyzes online dating profiles across 13 countries to examine how cultural contexts shape visual self-presentation.
+<p align="justify">
+I am a sociologist specializing in digital subjectivation and platform subjectivities. My research examines how practices of self-(re)presentation in digital environments, ranging from dating apps and professional networks to AI-generated images and virtual worlds, produce, negotiate, and contest subject positions. Working at the intersection of visual, cultural, and digital sociology, I investigate how platform design, affordances, and fields of value structure the emergence of selves and subjects, and how mediated practices simultaneously reproduce cultural formations and enable new or contested modes of being.
+</p>
+
+<p align="justify">
+In my PhD project, I analyzed online dating profiles across 13 countries to examine the construction of attractiveness through visual self-representation and to identify how culture, gender, and sexuality shape these visual practices.
+</p>
+
