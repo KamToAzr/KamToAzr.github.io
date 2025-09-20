@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research PhD Candidate
+role: PhD, to be conferred November 2025
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -51,7 +51,7 @@ interests:
 - Integration of qualitative and computational methods  
 
 education:
-  - area: PhD in Sociology, to be conferred November 2025 
+  - area: PhD in Sociology, to be conferred November 2025
     institution: Lingnan University
     #date_start: 2016-01-01
     #date_end: 2025-08-31
