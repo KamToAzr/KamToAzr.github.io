@@ -24,8 +24,8 @@ role: PhD, to be conferred November 2025
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Lingnan University - Department of Sociology & Social Policy
-    url: https://www.ln.edu.hk/socsp/people/postgraduate-students/tobias-kamelski
+  - name: Department of Sociology & Social Policy
+    url: https://www.tobiaskamelski.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -51,7 +51,7 @@ interests:
 - Integration of qualitative and computational methods  
 
 education:
-  - area: PhD in Sociology, to be conferred November 2025
+  - area: PhD
     institution: Lingnan University
     #date_start: 2016-01-01
     #date_end: 2025-08-31
