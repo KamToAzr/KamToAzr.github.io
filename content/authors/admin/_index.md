@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD, to be conferred November 2025
+role: PhD
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Department of Sociology & Social Policy
+  - name: 
     url: https://www.tobiaskamelski.com/
 
 # Social network links
